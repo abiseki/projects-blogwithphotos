@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: greenyellow;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+h1{
+    color: gold;
+    font-size: 200px;
+}
+
+.head{
+    background-image: url(hamster.jpg);
+    margin: 100px;
+    height: 500px;
+    background-size: 2000px;
+    text-align: center;
+}
+
+#Save{
+    font-size: 30px;
+}
